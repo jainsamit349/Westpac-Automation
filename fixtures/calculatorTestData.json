@@ -1,0 +1,46 @@
+[
+  {
+    "Scenario": "Age more than 64",
+    "age": "88",
+    "url": "https://www.westpac.co.nz/kiwisaver-investments/kiwisaver/kiwisaver-calculators/kiwisaver-calculator/"
+  },
+
+  {
+    "Scenario": "Age less than 18",
+    "age": "14",
+    "kiwisaverpurpose": "First Home",
+    "yearstopurchase": "In 4 years",
+    "employmentstatus": "Employed",
+    "incomefrequency": "per year",
+    "incomeamount": "80000",
+    "kiwisaverbalance": "1000",
+    "contributionrate": "3%",
+    "fundtype": "Conservative",
+    "url": "https://www.westpac.co.nz/kiwisaver-investments/kiwisaver/kiwisaver-calculators/kiwisaver-calculator/"
+  },
+  {
+    "Scenario": "Retirement Home",
+    "age": "60",
+    "kiwisaverpurpose": "Retirement",
+    "employmentstatus": "Employed",
+    "incomefrequency": "per month",
+    "incomeamount": "5000",
+    "kiwisaverbalance": "200000",
+    "contributionrate": "6%",
+    "fundtype": "Moderate",
+    "url": "https://www.westpac.co.nz/kiwisaver-investments/kiwisaver/kiwisaver-calculators/kiwisaver-calculator/"
+  },
+  {
+    "Scenario": "First Home",
+    "age": "38",
+    "kiwisaverpurpose": "First Home",
+    "yearstopurchase": "Less than 1 year",
+    "employmentstatus": "Employed",
+    "incomefrequency": "per week",
+    "incomeamount": "3000",
+    "kiwisaverbalance": "10000",
+    "contributionrate": "4%",
+    "fundtype": "Defensive / Cash",
+    "url": "https://www.westpac.co.nz/kiwisaver-investments/kiwisaver/kiwisaver-calculators/kiwisaver-calculator/"
+  }
+]
